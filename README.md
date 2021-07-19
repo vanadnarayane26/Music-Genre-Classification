@@ -8,3 +8,6 @@ The visualization of the graph is as follows:(For a single batch from train_load
 ![Music_Genre_Classifier](https://user-images.githubusercontent.com/64744264/126068273-b648ad8c-4bf1-4f64-969b-3967cb7cc302.png)
 
 Used Libraries = pytorch, librosa, numpy, json, pandas, matplotlib
+
+Link to the Dataset: https://www.kaggle.com/andradaolteanu/gtzan-dataset-music-genre-classification
+(jazz-54 is curropted in the dataset. The Data_preperation_py.py takes care of this error).
